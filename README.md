@@ -6,10 +6,13 @@ ________________________________________________________________________________
 This code will generate NVDI Images using the desired coordinates from bboxfinder.com and pulling data from the Sentinel-2 Satelite(AWS Open Dataset).
 
 #Steps:-
-Step 1:
+
+#Step 1:
 Import all the Libraries and Create a free account on "https://apps.sentinel-hub.com/dashboard/#/account/settings" for credentials.
+
 Step 2:
 Go to bboxfinder.com and get the exact box coordinates .
+
 Step 3 :
 Input the coordinates in bbox function and mention date in time interval function.
 We can change the Image format from jpg to png as well by just providing the full file name in 
@@ -19,6 +22,7 @@ responses=[
     ],
 
 All the output will be saved in a folder named in data_folder function.
+
 Step 4:
 Generate Images can be found in the folder .
 
