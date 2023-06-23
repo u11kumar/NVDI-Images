@@ -1,5 +1,7 @@
-# Generate NVDI Images from Sentinel-2 AWS Dataset.
-
+# Generate NDVI (Normalized Difference Vegetation Index) Images from Sentinel-2 AWS Dataset.
+__________________________________________________________________________________________________________________________________
+“Normalized Difference Vegetation Index (NDVI) quantifies vegetation by measuring the difference between near-infrared (which vegetation strongly reflects) and red light (which vegetation absorbs).”
+_________________________________________________________________________________________________________________________________
 
 This code will generate NVDI Images using the desired coordinates from bboxfinder.com and pulling data from the Sentinel-2 Satelite(AWS Open Dataset).
 
