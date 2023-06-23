@@ -40,8 +40,8 @@ Generate Images can be found in the folder .
 "https://apps.sentinel-hub.com/dashboard/#/account/settings" for credentials
 
 
-##Download Full Project in Zip File
+## Download Full Project in Zip File
 ### https://anonfiles.com/2cU6m9y1z7/NVDI_images_7z
 
-##Watch the whole video to get idea how to generate image.
+## Watch the whole video to get idea how to generate image.
 ###https://anonfiles.com/49U1mdyezb/2023_05_24_10_21_13_mkv
