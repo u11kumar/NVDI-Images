@@ -33,13 +33,11 @@ Generate Images can be found in the folder .
 
 
 
-'''
 "http://bboxfinder.com/#0.000000,0.000000,0.000000,0.000000" for coordinates
 
 "https://sentinelhub-py.readthedocs.io/en/latest/configure.html" for docs
 
 "https://apps.sentinel-hub.com/dashboard/#/account/settings" for credentials
-'''
 
 
 # Download Full Project in Zip File
