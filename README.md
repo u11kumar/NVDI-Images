@@ -40,7 +40,7 @@ All the output will be saved in a folder named in data_folder function.
 
 
 ## Download Full Project in Zip File
-### https://anonfiles.com/2cU6m9y1z7/NVDI_images_7z
+### https://drive.google.com/drive/folders/1TamgTvdIwQmFLU9j31VB-t8u59oD3Sr6?usp=sharing
 
 ## Watch the whole video to get idea how to generate image.
-### https://anonfiles.com/49U1mdyezb/2023_05_24_10_21_13_mkv
+## https://drive.google.com/file/d/129y1YzQJ0i7OI5_7jDyRhGguazKd3aWa/view?usp=sharing
